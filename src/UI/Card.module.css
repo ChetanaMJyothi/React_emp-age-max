@@ -1,0 +1,35 @@
+.card{
+  background-color: #C7E8CA;
+  color: #DF2E38;
+  font-size: 25px;
+  font-weight: bolder;
+  width:50%;
+  margin: auto;
+  margin-top: 10px;
+  border: 1px solid black;
+  padding: 10px;
+}
+.card form{
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.card form input{
+  margin-bottom: 20px;
+  font-size: large;
+}
+.listDiv li{
+  margin: 10px auto;
+  background-color: #C7E8CA;
+  font-size: 30px;
+  font-weight: bold;
+  width:300px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+
